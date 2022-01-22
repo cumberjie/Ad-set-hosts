@@ -42,15 +42,18 @@ sed -i "s/^\(||\|^\)//g" $t
 sed -i "/^\.\|^\*/d" $t
 
 # 使用声明
-statement="# $(date '+%Y-%m-%d %T')\n# 小贝塔自用，请勿商用\n\n"
+statement="# $(date '+%Y-%m-%d %T')\n# 请勿商用\n\n"
 
 # 获得标准去重版 host
 sort -u $t -o $t
 sed -i "/^127.0.0.1$/d;/^0.0.0.0$/d;/^\s*$/d" $t
 manslaughter $t
 
+# 合计
+sed -n '$=' row_count.sh
+ 
 # 获得标准版 hosts
-(echo -e $statement && sed "s/^/127.0.0.1 /g" $t && cat gh) > $hn
+(echo -e $statement && row_count.sh && sed "s/^/127.0.0.1 /g" $t && cat gh) > $hn
 # 获得标准 adguard 版规则
 adguard $t > $an
 
