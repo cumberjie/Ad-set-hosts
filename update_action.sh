@@ -50,10 +50,8 @@ sed -i "/^127.0.0.1$/d;/^0.0.0.0$/d;/^\s*$/d" $t
 manslaughter $t
 
 # 合计
-
-
-num='$=' $t
-num1="# 合计: $num \n"
+num=`sed -n '$=' $t`
+num1="# 合计: $(num '+%d') \n"
 
 # 获得标准版 hosts
 (echo -e $statement && $num1 && sed "s/^/127.0.0.1 /g" $t && cat gh) > $hn
