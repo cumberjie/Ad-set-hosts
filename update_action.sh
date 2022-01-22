@@ -25,11 +25,8 @@ https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
-#https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/xiaobeita/hosts
-#https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
 https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts
 https://gitee.com/lhzgl6587/hosts/raw/master/hosts
- 
 EOF
 
 # Github520 hosts
