@@ -50,7 +50,9 @@ sed -i "/^127.0.0.1$/d;/^0.0.0.0$/d;/^\s*$/d" $t
 manslaughter $t
 
 # 合计
-num=`cat $t | wc -l`
+
+
+num='$=' $t
 num1="# 合计: $num \n"
 
 # 获得标准版 hosts
