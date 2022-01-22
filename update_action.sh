@@ -27,6 +27,7 @@ https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts
 https://gitee.com/lhzgl6587/hosts/raw/master/hosts
+https://anti-ad.net/easylist.txt
 EOF
 
 # Github520 hosts
