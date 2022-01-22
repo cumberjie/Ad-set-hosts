@@ -21,7 +21,7 @@ curl -s https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v2.txt >> $t
 sed -i '/\(\/\|@\|\*\|^\.\|\:\)/d;s/^/127.0.0.1 /g' $t && echo "海阔影视 hosts 导入成功"
 
 while read i;do curl -s "$i">>$t&&echo "下载成功"||echo "$i 下载失败";done<<EOF
-https://anti-ad.net/easylist.txt
+https://raw.githubusercontent.com/cumberjie/AdRules/main/dns.txt
 EOF
 
 # Github520 hosts
