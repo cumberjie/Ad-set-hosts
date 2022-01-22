@@ -51,7 +51,7 @@ manslaughter $t
 
 # 合计
 num=`sed -n '$=' $t`
-num1="# 合计: $(num '+%d') \n"
+num1="# 合计: $num \n"
 
 # 获得标准版 hosts
 (echo -e $statement && $num1 && sed "s/^/127.0.0.1 /g" $t && cat gh) > $hn
