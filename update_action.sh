@@ -55,7 +55,7 @@ sed -i "/^127.0.0.1$/d;/^0.0.0.0$/d;/^\s*$/d" $t
 manslaughter $t
 
 # 获得标准版 hosts
-(echo -e $statement && sed "s/^/127.0.0.1 /g" $t && cat gh) > $hn
+(echo -e $statement && sed "s/^/0.0.0.0 /g" $t && cat gh) > $hn
 # 获得标准 adguard 版规则
 adguard $t > $an
 
