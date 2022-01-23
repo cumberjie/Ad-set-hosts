@@ -18,9 +18,13 @@ while read i;do curl -s "$i">>$t&&echo "下载成功"||echo "$i 下载失败";do
 https://raw.githubusercontent.com/cumberjie/AdRules/main/dns.txt
 EOF
 
-# hosts
-curl -s https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/rules/fasthosts.txt | sed "/#/d;s/ \{2,\}/ /g" > gh
-curl -s https://raw.githubusercontent.com/cumberjie/Ad-set-hosts/master/me.txt | sed "/#/d;s/ \{2,\}/ /g" > gh
+ 
+while read i;do curl -s "$i">>$h&&echo "下载成功"||echo "$i 下载失败";done<<EOF
+https://raw.githubusercontent.com/cumberjie/Ad-set-hosts/master/me.txt 
+https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/rules/fasthosts.txt
+EOF
+
+
 # 转换换行符
 dos2unix *
 dos2unix */*
@@ -48,7 +52,7 @@ sed -i "/^127.0.0.1$/d;/^0.0.0.0$/d;/^\s*$/d" $t
 manslaughter $t
 
 # 获得标准版 hosts
-(echo -e $statement && sed "s/^/0.0.0.0 /g" $t && cat gh) > $hn
+(echo -e $statement && sed "s/^/0.0.0.0 /g" $t && $h) > $hn
 # 获得标准 adguard 版规则
 adguard $t > $an
 
