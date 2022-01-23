@@ -13,19 +13,13 @@ adguard() {
 manslaughter(){
   sed -i "/tencent\|c\.pc\|xmcdn\|googletagservices\|zhwnlapi\|samizdat/d" $1
 }
-
-# 海阔影视 hosts 导入成功
-curl -s https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v1.txt > $t
-sed -i 's/\&\&/\n/g' $t
-curl -s https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v2.txt >> $t
-sed -i '/\(\/\|@\|\*\|^\.\|\:\)/d;s/^/127.0.0.1 /g' $t && echo "海阔影视 hosts 导入成功"
-
+ 
 while read i;do curl -s "$i">>$t&&echo "下载成功"||echo "$i 下载失败";done<<EOF
-https://anti-ad.net/easylist.txt
+https://raw.githubusercontent.com/cumberjie/AdRules/main/dns.txt
 EOF
 
 # Github520 hosts
-curl -s https://raw.githubusercontent.com/521xueweihan/GitHub520/master/hosts | sed "/#/d;s/ \{2,\}/ /g" > gh
+curl -s https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/rules/fasthosts.txt | sed "/#/d;s/ \{2,\}/ /g" > gh
 
 # 转换换行符
 dos2unix *
@@ -38,9 +32,11 @@ sed -i "/^\s*\(||\)/!d" $t
 sed -i "s/\s\|#.*//g" $t
 # 删除 127.0.0.1 、 0.0.0.0 、 空行、第一行
 sed -i "s/^\(||\|^\)//g" $t
+# 删除 最后一个字符
 sed -i "s/.$//g" $t
 # 删除 . 或 * 开头的
 sed -i "/^\.\|^\*/d" $t
+# 删除 含*行 
 sed -i "/*/d" $t
 
 # 使用声明
