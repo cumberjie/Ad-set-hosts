@@ -1,0 +1,8 @@
+0.0.0.0 tracker-01.qvb.qcloud.com
+0.0.0.0 midas.gtimg.cn
+0.0.0.0 game.weixin.qq.com
+0.0.0.0 wxsnsdythumb.wxs.qq.com
+0.0.0.0 wxsnsdy.wxs.qq.com
+0.0.0.0 ww38.zhihuu.com
+0.0.0.0 log.tpns.tencent.com
+ 
