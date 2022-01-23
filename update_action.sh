@@ -44,7 +44,7 @@ sed -i "/^\.\|^\*/d" $t
 sed -i "/*/d" $t
 
 # 使用声明
-statement="# $(date '+%Y-%m-%d %T')\n# 小贝塔自用，请勿商用\n\n"
+statement="# $(date '+%Y-%m-%d %T')\n# 自用，请勿商用\n\n"
 
 # 获得标准去重版 host
 sort -u $t -o $t
@@ -71,6 +71,6 @@ adguard $t > $an
 # adguard $f > $af
 
 
-rm $t gh
+rm $t $h
 # 推送到GitHub
 # git add . && git commit -m " `date '+%Y-%m-%d %T'` "
