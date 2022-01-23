@@ -21,9 +21,9 @@ curl -s https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v2.txt >> $t
 sed -i '/\(\/\|@\|\*\|^\.\|\:\)/d;s/^/127.0.0.1 /g' $t && echo "海阔影视 hosts 导入成功"
 
 while read i;do curl -s "$i">>$t&&echo "下载成功"||echo "$i 下载失败";done<<EOF
-https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts
+# https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
-https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+# https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts
 https://gitee.com/lhzgl6587/hosts/raw/master/hosts
