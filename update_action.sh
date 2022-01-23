@@ -18,9 +18,7 @@ while read i;do curl -s "$i">>$t&&echo "下载成功"||echo "$i 下载失败";do
 https://raw.githubusercontent.com/cumberjie/AdRules/main/dns.txt
 EOF
 
-# Github520 hosts
-curl -s https://raw.githubusercontent.com/521xueweihan/GitHub520/master/hosts | sed "/#/d;s/ \{2,\}/ /g" > gh
-curl -s https://raw.githubusercontent.com/cumberjie/Ad-set-hosts/master/me.txt | sed "/#/d;s/ \{2,\}/ /g" > me
+ 
 # 转换换行符
 dos2unix *
 dos2unix */*
@@ -67,6 +65,6 @@ adguard $t > $an
 # adguard $f > $af
 
 
-rm me $t gh
+rm $t 
 # 推送到GitHub
 # git add . && git commit -m " `date '+%Y-%m-%d %T'` "
