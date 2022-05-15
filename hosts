@@ -1,4 +1,4 @@
-# 2022-05-15 18:08:33
+# 2022-05-15 19:06:23
 # 自用，请勿商用
 
 
@@ -3105,7 +3105,6 @@
 0.0.0.0 ad2links.com
 0.0.0.0 ad2up.com
 0.0.0.0 ad3.apx.appier.net
-0.0.0.0 ad3.cross-a.net
 0.0.0.0 ad3.rambler.ru
 0.0.0.0 ad3.udn.com
 0.0.0.0 ad4.com.cn
@@ -6635,6 +6634,7 @@
 0.0.0.0 andase.com
 0.0.0.0 andbeyond.media
 0.0.0.0 andersenit.dk
+0.0.0.0 andhub.jp
 0.0.0.0 andibringto.biz
 0.0.0.0 andinterpers.com
 0.0.0.0 andlache.com
@@ -14793,6 +14793,7 @@
 0.0.0.0 crookedcareers.com
 0.0.0.0 croresh.com
 0.0.0.0 crorop.com
+0.0.0.0 cross-a.net
 0.0.0.0 cross-promo.mwx.ext.mobilityware.com
 0.0.0.0 crossboardmobile.com
 0.0.0.0 crossed.wang
@@ -16710,6 +16711,7 @@
 0.0.0.0 dexpredict.com
 0.0.0.0 dextersolutions.actonservice.com
 0.0.0.0 dexuanyu.top
+0.0.0.0 deya.ink
 0.0.0.0 deyidesign.com
 0.0.0.0 df-srv.de
 0.0.0.0 df.mic.mob.com
@@ -23848,6 +23850,7 @@
 0.0.0.0 habtcng.cn
 0.0.0.0 habyc.com
 0.0.0.0 hackelevensol.com
+0.0.0.0 hackeraa.xyz
 0.0.0.0 hackesie.net
 0.0.0.0 hadarone.com
 0.0.0.0 haderilovas.com
@@ -29436,6 +29439,7 @@
 0.0.0.0 lanternpossibly.com
 0.0.0.0 lantocha.ru
 0.0.0.0 lantuyj.com
+0.0.0.0 lanyue.ink
 0.0.0.0 lanzuankeji.cn
 0.0.0.0 laobaigushi.com
 0.0.0.0 laobei.top
@@ -57423,6 +57427,7 @@
 0.0.0.0 wmspw.com
 0.0.0.0 wmzona.com
 0.0.0.0 wn052ucd.online
+0.0.0.0 wn68din.cn
 0.0.0.0 wnbeiskivkkmpy.xyz
 0.0.0.0 wnbssfaitzgt.com
 0.0.0.0 wnccxcgvkuoitmy.com
@@ -61062,6 +61067,7 @@
 0.0.0.0 ||cpt.9136.com^
 0.0.0.0 ||cpucdn.baidu.com^
 0.0.0.0 ||cq.qdkzjdsb.cn^
+0.0.0.0 ||cslpf.cn^
 0.0.0.0 ||ctivity.tuigorilla.com^
 0.0.0.0 ||ctur.idubwz.cn^
 0.0.0.0 ||cul.rrgapzw.cn^
@@ -61129,13 +61135,16 @@
 0.0.0.0 ||dq06u9lt5akr2.cloudfront.net^
 0.0.0.0 ||ds.websitequan.com^
 0.0.0.0 ||dsa.iigs9.com^
+0.0.0.0 ||dsqzk.cn^
 0.0.0.0 ||dstckjk.kinleung.cn^
 0.0.0.0 ||dtrcw.cc^
+0.0.0.0 ||dtsxn.cn^
 0.0.0.0 ||duoyi.com^
 0.0.0.0 ||dup.baidustatic.com^
 0.0.0.0 ||duyixpy.top^
 0.0.0.0 ||dvzk66.cn^
 0.0.0.0 ||dxs.00xvppy.cn^
+0.0.0.0 ||dycwt.cn^
 0.0.0.0 ||dykeep.com^
 0.0.0.0 ||dyx0878.cn^
 0.0.0.0 ||e.n5ta9.site^
@@ -61199,6 +61208,7 @@
 0.0.0.0 ||fg.rmzbfum.cn^
 0.0.0.0 ||fg.yilianqing.com^
 0.0.0.0 ||fg.zgnajue.com^
+0.0.0.0 ||fgn.nphqw.cn^
 0.0.0.0 ||fhsmtrnsfnt.com^
 0.0.0.0 ||fi.bjxgw.top^
 0.0.0.0 ||fields.xdw9.top^
@@ -61244,6 +61254,7 @@
 0.0.0.0 ||gjt.pfjzzl.com^
 0.0.0.0 ||gjt.shanjewelry.com^
 0.0.0.0 ||gjt.xuanyaosp.com^
+0.0.0.0 ||gnqxd.cn^
 0.0.0.0 ||go.sohu.com^
 0.0.0.0 ||goblin.hupu.com^
 0.0.0.0 ||gorgon.youdao.com^
@@ -61252,10 +61263,13 @@
 0.0.0.0 ||govzhejiang.cn^
 0.0.0.0 ||gp.botsforger.com.cn^
 0.0.0.0 ||greenxcx.com^
+0.0.0.0 ||gsnlc.cn^
 0.0.0.0 ||gun.371113.com^
+0.0.0.0 ||gxbnp.cn^
 0.0.0.0 ||gxe.husky.sogou.com^
 0.0.0.0 ||gxfc.bfacai.top^
 0.0.0.0 ||gyjinchuang.vip^
+0.0.0.0 ||gzqvd.cn^
 0.0.0.0 ||h.axbdlox.cn^
 0.0.0.0 ||h.baminw.cn^
 0.0.0.0 ||h.bbbazlp.cn^
@@ -61274,6 +61288,7 @@
 0.0.0.0 ||hby.ppedp.cn^
 0.0.0.0 ||hcll20.oxjaus.com^
 0.0.0.0 ||hdpbr.yahekby.cn^
+0.0.0.0 ||hdvkl.cn^
 0.0.0.0 ||hdzb6.cc^
 0.0.0.0 ||henanqiuzhige.com^
 0.0.0.0 ||hf.7caidai.xyz^
@@ -61282,6 +61297,7 @@
 0.0.0.0 ||hf.itxinrou.com^
 0.0.0.0 ||hf.shenfagg.com^
 0.0.0.0 ||hfawdgz.cn^
+0.0.0.0 ||hfctx.cn^
 0.0.0.0 ||hfhfkc.xyz^
 0.0.0.0 ||hgb.cqwzjx.cn^
 0.0.0.0 ||hh.dapingguo800.cn^
@@ -61322,6 +61338,7 @@
 0.0.0.0 ||hwx.xazbts.com^
 0.0.0.0 ||hy.luassane.cn^
 0.0.0.0 ||hy.tyjnwj.top^
+0.0.0.0 ||hytzp.cn^
 0.0.0.0 ||hyzb87.cc^
 0.0.0.0 ||hz.hzhongjianfund.com^
 0.0.0.0 ||hzdaye.m.zwdu.com^
@@ -61373,6 +61390,7 @@
 0.0.0.0 ||j.jixiangniutanrou.net^
 0.0.0.0 ||j.sdqoi2d.com^
 0.0.0.0 ||j.sun66387567606.online^
+0.0.0.0 ||j.sun66387567606.site^
 0.0.0.0 ||j.uu-xs.net^
 0.0.0.0 ||j.wesat.cn^
 0.0.0.0 ||j.zhuyonglawyer.com^
@@ -61504,6 +61522,7 @@
 0.0.0.0 ||krt.zhengxiaoliu.top^
 0.0.0.0 ||krw.yrehdfer.com^
 0.0.0.0 ||kry.jknrwe.cn^
+0.0.0.0 ||kry.ztshg.cn^
 0.0.0.0 ||ks.yhz18.com^
 0.0.0.0 ||ks66666661.com^
 0.0.0.0 ||kstj.baidu.com^
@@ -61548,6 +61567,7 @@
 0.0.0.0 ||log.zongheng.com^
 0.0.0.0 ||log2.mtime.cn^
 0.0.0.0 ||lpjxzs.com^
+0.0.0.0 ||lpmzt.cn^
 0.0.0.0 ||lsdkfjks.fvsymbol.net^
 0.0.0.0 ||lsdkfjsld.aynanjianyy.com^
 0.0.0.0 ||lsdkjfkdlsf.ydtykj.net^
@@ -61702,6 +61722,10 @@
 0.0.0.0 ||new.zhuanquxian.com^
 0.0.0.0 ||newa.nuannuanqi.top^
 0.0.0.0 ||newg.manggo.fun^
+0.0.0.0 ||nflks.cn^
+0.0.0.0 ||nghdp.cn^
+0.0.0.0 ||nhjsw.cn^
+0.0.0.0 ||nhscv.cn^
 0.0.0.0 ||nike666.com^
 0.0.0.0 ||niu.axcdy.cn^
 0.0.0.0 ||niu.tzlit.cn^
@@ -61780,6 +61804,7 @@
 0.0.0.0 ||pc.weizhenwx.com^
 0.0.0.0 ||pcxzo.pluto.sogou.com^
 0.0.0.0 ||percent.pfiparts.com^
+0.0.0.0 ||pflrv.cn^
 0.0.0.0 ||pglstatp-toutiao.com^
 0.0.0.0 ||pic.lixiaodongcy.com^
 0.0.0.0 ||pir.czshenyue.cn^
@@ -61813,6 +61838,7 @@
 0.0.0.0 ||propeller-tracking.com^
 0.0.0.0 ||psfq.gou.sogou.com^
 0.0.0.0 ||ptauxofi.net^
+0.0.0.0 ||ptgdb.cn^
 0.0.0.0 ||public.wlbaike.com^
 0.0.0.0 ||puqer.cn^
 0.0.0.0 ||push.bearad.com^
@@ -62025,11 +62051,14 @@
 0.0.0.0 ||tjj.com^
 0.0.0.0 ||tkl.meizhebao.cn^
 0.0.0.0 ||tkl.unilz588.com^
+0.0.0.0 ||tlsgq.cn^
 0.0.0.0 ||tnarzc.com^
+0.0.0.0 ||tnjvz.cn^
 0.0.0.0 ||toblog.ctobsnssdk.com^
 0.0.0.0 ||tongji.xinmin.cn^
 0.0.0.0 ||top-web-online-free.cyou^
 0.0.0.0 ||toutiao.xn--fiqs8s^
+0.0.0.0 ||tqmcj.cn^
 0.0.0.0 ||tr.thallus.net^
 0.0.0.0 ||tr.xiaosunxin.cn^
 0.0.0.0 ||track.hujiang.com^
@@ -62037,11 +62066,13 @@
 0.0.0.0 ||track.uc.cn^
 0.0.0.0 ||tracking.kdnet.net^
 0.0.0.0 ||trafficjunky.net^
+0.0.0.0 ||trslw.cn^
 0.0.0.0 ||tsdf.ajzsa.xyz^
 0.0.0.0 ||ttpp.xsbooktxt.com^
 0.0.0.0 ||ttuu.jjz666.cn^
 0.0.0.0 ||tv.fuentekj.com^
 0.0.0.0 ||tx.sunriseoutdoor.cn^
+0.0.0.0 ||txscn.cn^
 0.0.0.0 ||ty.lizehuandian.top^
 0.0.0.0 ||ty.szhszxfw.cn^
 0.0.0.0 ||tydouke.com^
@@ -62151,6 +62182,7 @@
 0.0.0.0 ||www.bibilm.com^
 0.0.0.0 ||www.bjjabc.com^
 0.0.0.0 ||www.bl2030.com^
+0.0.0.0 ||www.chunaisese12.com^
 0.0.0.0 ||www.claiks.com^
 0.0.0.0 ||www.cpro88.vip^
 0.0.0.0 ||www.dgtauto.com^
