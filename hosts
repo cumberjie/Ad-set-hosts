@@ -1,4 +1,4 @@
-# 2023-04-21 06:06:39
+# 2023-04-21 07:07:52
 # 自用，请勿商用
 
 
@@ -2631,6 +2631,7 @@
 0.0.0.0 a.quora.com
 0.0.0.0 a.raasnet.com
 0.0.0.0 a.redhairporn.com
+0.0.0.0 a.redpathmedia.com
 0.0.0.0 a.remy.world
 0.0.0.0 a.rensheng5.com
 0.0.0.0 a.replaytheseries.com
@@ -5427,11 +5428,9 @@
 0.0.0.0 abyssesbathman.com
 0.0.0.0 ac-3.mix.tokyo
 0.0.0.0 ac-dir-co.jsgbmmcapc.com
-0.0.0.0 ac-dir-co.t4ergzwf7r.com
 0.0.0.0 ac-dir-latam.jsgbmmcapc.com
 0.0.0.0 ac-dir-sing.jsgbmmcapc.com
 0.0.0.0 ac-dir-sing.nask2sowrz.com
-0.0.0.0 ac-dir-sing.t4ergzwf7r.com
 0.0.0.0 ac-ebis-stb.usen.com
 0.0.0.0 ac-ebis-uhome.usen.com
 0.0.0.0 ac-ebis.usen-pos.com
@@ -7735,6 +7734,7 @@
 0.0.0.0 ads.docunordic.net
 0.0.0.0 ads.dogusdigital.com
 0.0.0.0 ads.dreamjobcompany.com
+0.0.0.0 ads.dugwood.com
 0.0.0.0 ads.dygdigital.com
 0.0.0.0 ads.edadeal.ru
 0.0.0.0 ads.elpais.com.uy
@@ -7760,6 +7760,7 @@
 0.0.0.0 ads.homedy.net
 0.0.0.0 ads.ictnews.vn
 0.0.0.0 ads.igfhaber.com
+0.0.0.0 ads.imbc.com
 0.0.0.0 ads.imovideo.ru
 0.0.0.0 ads.indosatooredoo.com
 0.0.0.0 ads.inegolonline.com
@@ -8103,6 +8104,7 @@
 0.0.0.0 adsmogo.net
 0.0.0.0 adsmogo.org
 0.0.0.0 adsmoloco.com
+0.0.0.0 adsmrapi.imbc.com
 0.0.0.0 adsmwt.com
 0.0.0.0 adsnative.com
 0.0.0.0 adsnetworkbr.ml
@@ -13689,7 +13691,6 @@
 0.0.0.0 atzzrq.tbs.co.jp
 0.0.0.0 au-go.experian.com
 0.0.0.0 au-partners.ingrammicro.com
-0.0.0.0 au.bolloxcyclism.com
 0.0.0.0 au.interface.com
 0.0.0.0 au.mywd.com
 0.0.0.0 au.promo.skf.com
@@ -13961,7 +13962,6 @@
 0.0.0.0 avb-latam.jsgbmmcapc.com
 0.0.0.0 avb-latam.t4ergzwf7r.com
 0.0.0.0 avb-sing.jsgbmmcapc.com
-0.0.0.0 avb-sing.t4ergzwf7r.com
 0.0.0.0 avbdf.com
 0.0.0.0 avdego.net
 0.0.0.0 avdpmeated.uno
@@ -16027,7 +16027,6 @@
 0.0.0.0 bfyufultbvlyrg.com
 0.0.0.0 bg-go.experian.com
 0.0.0.0 bg.promo.skf.com
-0.0.0.0 bg.unbarbpoured.com
 0.0.0.0 bg4nxu2u5t.com
 0.0.0.0 bg6s0.com
 0.0.0.0 bgadx.com
@@ -20316,7 +20315,6 @@
 0.0.0.0 click-da-click.com
 0.0.0.0 click-plus.net
 0.0.0.0 click-rtb2-apac.xaprio.net
-0.0.0.0 click-rtb2-useast.africonverse.com
 0.0.0.0 click-rtb2-useast.catapultx.com
 0.0.0.0 click-rtb2-useast.xaprio.net
 0.0.0.0 click-staging.food.mercato.com
@@ -20325,7 +20323,6 @@
 0.0.0.0 click-v4.expoclknw.com
 0.0.0.0 click-v4.junexclkmid.com
 0.0.0.0 click.aaptiv.com
-0.0.0.0 click.aarthpro.com
 0.0.0.0 click.activehealthworks.org
 0.0.0.0 click.ad1.ru
 0.0.0.0 click.alejandratv.tv
@@ -23302,6 +23299,7 @@
 0.0.0.0 cts.vresp.com
 0.0.0.0 ctsau.xyz
 0.0.0.0 ctsccrxfaqiq.xyz
+0.0.0.0 ctsdwm.com
 0.0.0.0 ctshirts.tt.omtrdc.net
 0.0.0.0 ctsjackupspete.com
 0.0.0.0 cttngldfpjuct.com
@@ -27211,7 +27209,6 @@
 0.0.0.0 di-res-latam.jsgbmmcapc.com
 0.0.0.0 di-res-latam.t4ergzwf7r.com
 0.0.0.0 di-res-sing.jsgbmmcapc.com
-0.0.0.0 di-res-sing.t4ergzwf7r.com
 0.0.0.0 di-res.jsgbmmcapc.com
 0.0.0.0 di-res.t4ergzwf7r.com
 0.0.0.0 di.ifolor.at
@@ -33528,22 +33525,17 @@
 0.0.0.0 filter-eu.adsupplyexchange.com
 0.0.0.0 filter-eu.bid-engine.com
 0.0.0.0 filter-eu.globlemath.com
-0.0.0.0 filter-eu.outpush.net
 0.0.0.0 filter-eu.trafficmoose.com
 0.0.0.0 filter.adcy.net
 0.0.0.0 filter.adhunter.media
-0.0.0.0 filter.adkrivmedia.com
-0.0.0.0 filter.adop.co
 0.0.0.0 filter.babanetwork.net
 0.0.0.0 filter.clicktoring.com
-0.0.0.0 filter.datadrives.ai
 0.0.0.0 filter.eclk.club
 0.0.0.0 filter.goclickz.net
 0.0.0.0 filter.mediashakers.com
 0.0.0.0 filter.mobagent.com
 0.0.0.0 filter.octov8.com
 0.0.0.0 filter.rtbzone.com
-0.0.0.0 filter.zeusadx.com
 0.0.0.0 filterexchangecage.com
 0.0.0.0 filthybudget.com
 0.0.0.0 fimserve.com
@@ -34654,6 +34646,7 @@
 0.0.0.0 ftheownounci.com
 0.0.0.0 ftheplansa.com
 0.0.0.0 fthkmwrkqg.com
+0.0.0.0 fthqzxq.cn
 0.0.0.0 ftigholm.site
 0.0.0.0 ftjcfx.com
 0.0.0.0 ftklr.com
@@ -40174,7 +40167,6 @@
 0.0.0.0 ic.ksosoft.com
 0.0.0.0 ic.snssdk.com
 0.0.0.0 ic.wps.cn
-0.0.0.0 icanhazip.com
 0.0.0.0 icarabatt.com
 0.0.0.0 icas.ikea.com
 0.0.0.0 icas.ikea.net
@@ -45947,7 +45939,6 @@
 0.0.0.0 l99l.org
 0.0.0.0 l9bdhcgihw.neihanw.com
 0.0.0.0 l9tdhe6.com
-0.0.0.0 l9zkm.pleasedonotblockme.com
 0.0.0.0 la-la-moon.com
 0.0.0.0 la-la-sf.com
 0.0.0.0 la-sync.taboola.com
@@ -47954,7 +47945,6 @@
 0.0.0.0 login.adopt.media
 0.0.0.0 login.adxnexus.com
 0.0.0.0 login.affiliatesit.cz
-0.0.0.0 login.bidmyads.com
 0.0.0.0 login.blueparrot.media
 0.0.0.0 login.foremedia.net
 0.0.0.0 login.pressize.com
@@ -51498,6 +51488,7 @@
 0.0.0.0 measlymiddle.com
 0.0.0.0 measts.com
 0.0.0.0 measure.ameblo.jp
+0.0.0.0 measure.chase.com
 0.0.0.0 measure.ensighten.com
 0.0.0.0 measure.ly
 0.0.0.0 measure.mf.cz
@@ -51609,6 +51600,7 @@
 0.0.0.0 mediakraft.se
 0.0.0.0 medialand
 0.0.0.0 medialand.ru
+0.0.0.0 medialog.smartmediarep.com
 0.0.0.0 medialogger.ru
 0.0.0.0 medialytics.com
 0.0.0.0 medialytics.io
@@ -51672,6 +51664,7 @@
 0.0.0.0 mediego.com
 0.0.0.0 medigaly.com
 0.0.0.0 mediniku.viessmann.lt
+0.0.0.0 medipartner.jp
 0.0.0.0 mediuln.com
 0.0.0.0 mediumpimpin.com
 0.0.0.0 medleyads.com
@@ -56292,7 +56285,6 @@
 0.0.0.0 noozjifbn.com
 0.0.0.0 nop.xpanama.net
 0.0.0.0 nope.xn--mgbkt9eckr.net
-0.0.0.0 nope.xn--ngbcrg3b.com
 0.0.0.0 nopolicycrea.com
 0.0.0.0 noproblfr.com
 0.0.0.0 noptog.com
@@ -58332,6 +58324,7 @@
 0.0.0.0 osaud.com
 0.0.0.0 osaunsot.net
 0.0.0.0 osc.venetian.com
+0.0.0.0 oscaranimation.in
 0.0.0.0 oscarredwith.xyz
 0.0.0.0 osciet.com
 0.0.0.0 oscism.com
@@ -64495,6 +64488,7 @@
 0.0.0.0 r.mail.163.com
 0.0.0.0 r.mail.ru
 0.0.0.0 r.miamano.com
+0.0.0.0 r.moshimo.com
 0.0.0.0 r.movad.de
 0.0.0.0 r.msn.com
 0.0.0.0 r.my.com
@@ -66755,12 +66749,9 @@
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 rtas.videocc.net
 0.0.0.0 rtax.criteo.com
-0.0.0.0 rtb-apac-v4.broadadx.com
 0.0.0.0 rtb-apac.catapultx.com
-0.0.0.0 rtb-apac.rtbdemand.com
 0.0.0.0 rtb-eu.adhunter.media
 0.0.0.0 rtb-eu.blueparrot.media
-0.0.0.0 rtb-eu.engageadx.com
 0.0.0.0 rtb-eu.mobipromote.com
 0.0.0.0 rtb-media.me
 0.0.0.0 rtb-media.ru
@@ -66772,12 +66763,9 @@
 0.0.0.0 rtb-useast.e-volution.ai
 0.0.0.0 rtb-useast.foremedia.net
 0.0.0.0 rtb-useast.greedygame.com
-0.0.0.0 rtb-useast.griffindigitalmedia.com
 0.0.0.0 rtb-useast.pareto21.com
-0.0.0.0 rtb-uswest.adapace.com
 0.0.0.0 rtb-uswest.adjux.com
 0.0.0.0 rtb-uswest.adsolut.in
-0.0.0.0 rtb-uswest.catapultx.com
 0.0.0.0 rtb-uswest.denakop.com
 0.0.0.0 rtb-uswest.explorads.com
 0.0.0.0 rtb-uswest.foremedia.net
@@ -66796,7 +66784,6 @@
 0.0.0.0 rtb.wedeo.ru
 0.0.0.0 rtb123.com
 0.0.0.0 rtb1bid.com
-0.0.0.0 rtb2-apac.xaprio.net
 0.0.0.0 rtb2-eu.thecdn.site
 0.0.0.0 rtbanalytics.com
 0.0.0.0 rtbapi.douyucdn.cn
@@ -69822,6 +69809,7 @@
 0.0.0.0 sgstats.com
 0.0.0.0 sgswuesocfr.com
 0.0.0.0 sgtm.fashionunited
+0.0.0.0 sgtm.handyhuellen.de
 0.0.0.0 sgtm.inet.se
 0.0.0.0 sgtm.sefamerve.com
 0.0.0.0 sgtm.simoahava.com
@@ -70472,7 +70460,6 @@
 0.0.0.0 sinfo.dtcidev.co
 0.0.0.0 sing-tracker.com
 0.0.0.0 sing.jsgbmmcapc.com
-0.0.0.0 sing.t4ergzwf7r.com
 0.0.0.0 singaporetourismboar.tt.omtrdc.net
 0.0.0.0 singerrespectfuljerk.com
 0.0.0.0 singingdrawback.com
@@ -75761,7 +75748,6 @@
 0.0.0.0 static.meijiacun.com
 0.0.0.0 static.melozen.com
 0.0.0.0 static.mvot.vn
-0.0.0.0 static.outpush.net
 0.0.0.0 static.parsely.com
 0.0.0.0 static.plarimoplus.com
 0.0.0.0 static.prototypes.ru
@@ -79245,7 +79231,6 @@
 0.0.0.0 taxodiu2m2dis7tichum.com
 0.0.0.0 taxwaxhurlock.store
 0.0.0.0 taylorshellfish.actonservice.com
-0.0.0.0 tayrambo.lol
 0.0.0.0 taz.met.vgwort.de
 0.0.0.0 tazm9p7tso.trade
 0.0.0.0 tazzasembays.digital
@@ -81349,7 +81334,6 @@
 0.0.0.0 tpyshaaxps.com
 0.0.0.0 tq-eu.frdjs-2.co
 0.0.0.0 tq-eu.nxthost-1.info
-0.0.0.0 tq.frdjs-2.co
 0.0.0.0 tq.nxthost-1.info
 0.0.0.0 tqd.ntpddq.com
 0.0.0.0 tqdpqq.com
@@ -89751,7 +89735,6 @@
 0.0.0.0 wimplesbooklet.com
 0.0.0.0 wimyrea.ru
 0.0.0.0 win-bidding.com
-0.0.0.0 win-rtb2-eu.xaprio.net
 0.0.0.0 win-stock.com.cn
 0.0.0.0 win-winfuture.cn
 0.0.0.0 win.staticstuff.net
@@ -90729,7 +90712,6 @@
 0.0.0.0 www.bis-dic15.com
 0.0.0.0 www.bjjabc.com
 0.0.0.0 www.bl2030.com
-0.0.0.0 www.bliss91.com
 0.0.0.0 www.blocwhite7.com
 0.0.0.0 www.blogtoplist.se
 0.0.0.0 www.blzsnd02.com
@@ -92060,12 +92042,8 @@
 0.0.0.0 xmkbrfyu.cn
 0.0.0.0 xmkmuadkefzav.com
 0.0.0.0 xml-api.online
-0.0.0.0 xml-eu-v4.100conversions.com
 0.0.0.0 xml-eu-v4.adsupplyexchange.com
 0.0.0.0 xml-eu-v4.frdjs-2.co
-0.0.0.0 xml-eu-v4.outpush.net
-0.0.0.0 xml-eu-v4.pxfindtwo.com
-0.0.0.0 xml-eu-v4.rocoads.com
 0.0.0.0 xml-eu.rocoads.com
 0.0.0.0 xml-heartbid.monster
 0.0.0.0 xml-heartbidnet.monster
@@ -92073,7 +92051,6 @@
 0.0.0.0 xml-v4.fstsrv1.com
 0.0.0.0 xml-v4.goclickz.net
 0.0.0.0 xml-v4.kunvertads.com
-0.0.0.0 xml-v4.newbluetrue.xyz
 0.0.0.0 xml.adapace.com
 0.0.0.0 xml.adflyer.media
 0.0.0.0 xml.adxfactory.com
@@ -92097,7 +92074,6 @@
 0.0.0.0 xml.rtbzone.com
 0.0.0.0 xml.serverhost1.com
 0.0.0.0 xml.sodamedia.co
-0.0.0.0 xml.sweetides.xyz
 0.0.0.0 xml.thenetwork18.com
 0.0.0.0 xml.xmladsystem.com
 0.0.0.0 xml.zaimads.com
@@ -93425,7 +93401,6 @@
 0.0.0.0 yoyozz.net
 0.0.0.0 yoyue.net
 0.0.0.0 yp.shuhuangge.org
-0.0.0.0 yp.tronkparsed.com
 0.0.0.0 ypa.focusoftime.com
 0.0.0.0 ypbfjo.paulsmith.co.jp
 0.0.0.0 ypiads.com
@@ -94035,6 +94010,7 @@
 0.0.0.0 zdhpen.xyz
 0.0.0.0 zdhpenn.live
 0.0.0.0 zdhpenn.shop
+0.0.0.0 zdiwsb.live
 0.0.0.0 zdjeae.live
 0.0.0.0 zdjljvsi.com
 0.0.0.0 zdkdwk.buzz
@@ -94043,6 +94019,8 @@
 0.0.0.0 zdktgps.cn
 0.0.0.0 zdlnhv.xyz
 0.0.0.0 zdlogs.sphereup.com
+0.0.0.0 zdmybl.xyz
+0.0.0.0 zdobdg.fyi
 0.0.0.0 zdorovmagazine.ru
 0.0.0.0 zdpeanut.com
 0.0.0.0 zdpsve.scrapbook.com
@@ -97371,11 +97349,14 @@
 0.0.0.0 ||zdhpen.xyz^
 0.0.0.0 ||zdhpenn.live^
 0.0.0.0 ||zdhpenn.shop^
+0.0.0.0 ||zdiwsb.live^
 0.0.0.0 ||zdjeae.live^
 0.0.0.0 ||zdkdwk.buzz^
 0.0.0.0 ||zdkdwk.live^
 0.0.0.0 ||zdkjr.xyz^
 0.0.0.0 ||zdlnhv.xyz^
+0.0.0.0 ||zdmybl.xyz^
+0.0.0.0 ||zdobdg.fyi^
 0.0.0.0 ||zdx25.site^
 0.0.0.0 ||zdx30.site^
 0.0.0.0 ||zdznsqb.com^
