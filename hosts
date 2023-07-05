@@ -1,4 +1,4 @@
-# 2023-07-05 18:09:29
+# 2023-07-05 19:07:56
 # 自用，请勿商用
 
 
@@ -1423,6 +1423,7 @@
 0.0.0.0 33tui.com
 0.0.0.0 34-4.jamf.tt.omtrdc.net
 0.0.0.0 34-70gomp.tt.omtrdc.net
+0.0.0.0 3400.org
 0.0.0.0 340ca71c.space
 0.0.0.0 341073be6e9db7d2.com
 0.0.0.0 341k4gu76ywe.top
@@ -6236,6 +6237,7 @@
 0.0.0.0 abrdmdt4jvdb04.tt.omtrdc.net
 0.0.0.0 abridgeoverwhelmfireball.com
 0.0.0.0 abrinchapper.com
+0.0.0.0 abrnfctkn.xyz
 0.0.0.0 abroad-ad.kingsoft-office-service.com
 0.0.0.0 abrokers5oriental.tt.omtrdc.net
 0.0.0.0 abroniamarkup.com
@@ -7105,6 +7107,7 @@
 0.0.0.0 ad.owlair.net
 0.0.0.0 ad.oyy.ru
 0.0.0.0 ad.particlenews.com
+0.0.0.0 ad.partner.gifshow.com
 0.0.0.0 ad.period-calendar.com
 0.0.0.0 ad.petel.bg
 0.0.0.0 ad.phaserep.com
@@ -8689,6 +8692,7 @@
 0.0.0.0 ads.gazetaesportiva.net
 0.0.0.0 ads.gencgazete.net
 0.0.0.0 ads.gercekgundem.com
+0.0.0.0 ads.google.cn
 0.0.0.0 ads.gosu.vn
 0.0.0.0 ads.grupozeta.es
 0.0.0.0 ads.heytapmobi.com
@@ -8733,6 +8737,7 @@
 0.0.0.0 ads.motosiklet.net
 0.0.0.0 ads.mrgreen.com
 0.0.0.0 ads.museum.or.jp
+0.0.0.0 ads.music.126.net
 0.0.0.0 ads.nghenhinvietnam.vn
 0.0.0.0 ads.nhadatmoi.net
 0.0.0.0 ads.nicovideo.jp
@@ -8945,6 +8950,7 @@
 0.0.0.0 adserverpub.com
 0.0.0.0 adservi.com
 0.0.0.0 adservice
+0.0.0.0 adservice.google.cn
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.se
 0.0.0.0 adservice.tohsoft.com
@@ -9478,6 +9484,7 @@
 0.0.0.0 advertisement-nhatanh.com
 0.0.0.0 advertisement.glb.qnniu.com
 0.0.0.0 advertisementafterthought.com
+0.0.0.0 advertiseonbing.azureedge.net
 0.0.0.0 advertiseru.net
 0.0.0.0 advertiserurl.com
 0.0.0.0 advertiseserve.com
@@ -13771,6 +13778,7 @@
 0.0.0.0 api-api.travel.gs.tt.omtrdc.net
 0.0.0.0 api-api3.sj1.tt.omtrdc.net
 0.0.0.0 api-battlestar.yesbank.tt.omtrdc.net
+0.0.0.0 api-c.dutils.com
 0.0.0.0 api-ca4.central.tt.omtrdc.net
 0.0.0.0 api-ccv-a.cp.tt.omtrdc.net
 0.0.0.0 api-ccv-ew.cp.tt.omtrdc.net
@@ -13783,12 +13791,15 @@
 0.0.0.0 api-cui.uds-qa.uds-dev.tt.omtrdc.net
 0.0.0.0 api-cx.h-56.tt.omtrdc.net
 0.0.0.0 api-cx.tourico-mac.tt.omtrdc.net
+0.0.0.0 api-d.dutils.com
 0.0.0.0 api-dbsds.tt.omtrdc.net
 0.0.0.0 api-deal.kechenggezi.com
 0.0.0.0 api-defensie-test.tt.omtrdc.net
 0.0.0.0 api-dev-ap-swoole-cluster2.tt.omtrdc.net
 0.0.0.0 api-dev.uat.tt.omtrdc.net
 0.0.0.0 api-devel.tt.omtrdc.net
+0.0.0.0 api-devs.dutils.com
+0.0.0.0 api-df.dutils.com
 0.0.0.0 api-docs-futures.tt.omtrdc.net
 0.0.0.0 api-docs.bpi.tt.omtrdc.net
 0.0.0.0 api-docs.ecs-gd2.tt.omtrdc.net
@@ -13797,10 +13808,14 @@
 0.0.0.0 api-docs2.new-56.tt.omtrdc.net
 0.0.0.0 api-eia-openei.domains.api.tt.omtrdc.net
 0.0.0.0 api-en.tt.omtrdc.net
+0.0.0.0 api-error.dutils.com
 0.0.0.0 api-eu.aws-eu.tt.omtrdc.net
 0.0.0.0 api-eu.rid-pre.accounts.tt.omtrdc.net
+0.0.0.0 api-exc.dutils.com
 0.0.0.0 api-factor.wallet.tt.omtrdc.net
 0.0.0.0 api-fangarma.utyug.media
+0.0.0.0 api-fc.dutils.com
+0.0.0.0 api-fd.dutils.com
 0.0.0.0 api-fdic.gov.domains.tt.omtrdc.net
 0.0.0.0 api-flow.flyme.cn
 0.0.0.0 api-flow.meizu.com
@@ -13808,6 +13823,7 @@
 0.0.0.0 api-gateway-ap-stg-va2-a.infra.tt.omtrdc.net
 0.0.0.0 api-gateway-dc-stg-02-a.infra.tt.omtrdc.net
 0.0.0.0 api-gateway-eks.or.us1.otl.deployment.tt.omtrdc.net
+0.0.0.0 api-gd.dutils.com
 0.0.0.0 api-gov.ed.api.domains.api.tt.omtrdc.net
 0.0.0.0 api-ih2.hm.erc.tt.omtrdc.net
 0.0.0.0 api-insights-mobi.tipjar.tt.omtrdc.net
@@ -26157,7 +26173,6 @@
 0.0.0.0 clks.trackthisclicks.com
 0.0.0.0 clksite.com
 0.0.0.0 clkstat.china.cn
-0.0.0.0 clktrk.display.io
 0.0.0.0 cllctr.any.run
 0.0.0.0 clldirectasianew.club
 0.0.0.0 cllkxhssihweca.com
@@ -28538,7 +28553,6 @@
 0.0.0.0 counter.insales.ru
 0.0.0.0 counter.jdi5.com
 0.0.0.0 counter.joins.com
-0.0.0.0 counter.kingsoft.com
 0.0.0.0 counter.live4members.com
 0.0.0.0 counter.log24.ru
 0.0.0.0 counter.maases.com
@@ -30435,6 +30449,7 @@
 0.0.0.0 d2fbvay81k4ji3.cloudfront.net
 0.0.0.0 d2fhjyz3dwdx87.cloudfront.net
 0.0.0.0 d2fhrdu08h12cc.cloudfront.net
+0.0.0.0 d2fj3s7h83rb61.cloudfront.ne
 0.0.0.0 d2focgxak1cn74.cloudfront.net
 0.0.0.0 d2fsfacjuqds81.cloudfront.net
 0.0.0.0 d2g8ksx1za632p.cloudfront.net
@@ -34052,6 +34067,7 @@
 0.0.0.0 devpim.dji.tt.omtrdc.net
 0.0.0.0 devrws2.jobs.ros.tt.omtrdc.net
 0.0.0.0 devryuniversity.tt.omtrdc.net
+0.0.0.0 devs-data.dutils.com
 0.0.0.0 devs.tt.omtrdc.net
 0.0.0.0 devsfcitrix-design-api.gslb.tt.omtrdc.net
 0.0.0.0 devsites80.tt.omtrdc.net
@@ -39515,7 +39531,6 @@
 0.0.0.0 ep.nfip.tt.omtrdc.net
 0.0.0.0 ep.regis.edu
 0.0.0.0 ep.umobile.pl
-0.0.0.0 ep.xone.com
 0.0.0.0 ep4p.com
 0.0.0.0 ep6a.top
 0.0.0.0 epaaab.com
@@ -46574,6 +46589,7 @@
 0.0.0.0 h.how5.cn
 0.0.0.0 h.imedia.cz
 0.0.0.0 h.laojiayoufang.com
+0.0.0.0 h.m.mpl.dutils.com
 0.0.0.0 h.msn.com
 0.0.0.0 h.online-metrix.net
 0.0.0.0 h.rickysblast.cn
@@ -46814,6 +46830,7 @@
 0.0.0.0 hansetwangy.com
 0.0.0.0 hansseal.pay.pay.tt.omtrdc.net
 0.0.0.0 hantana.org
+0.0.0.0 hanwdsii.com
 0.0.0.0 hanyingmall.cn
 0.0.0.0 hao.315hyw.com
 0.0.0.0 hao.360hyzj.com
@@ -48392,6 +48409,7 @@
 0.0.0.0 hs-analytics.net
 0.0.0.0 hs-banner.com
 0.0.0.0 hs-scripts.com
+0.0.0.0 hsadeg.site
 0.0.0.0 hsadspixel.net
 0.0.0.0 hsaxca.americatv.com.pe
 0.0.0.0 hsbc.tt.omtrdc.net
@@ -52141,6 +52159,7 @@
 0.0.0.0 ip.cliphunter.com
 0.0.0.0 ip.goguardian.com
 0.0.0.0 ip.hivps.xyz
+0.0.0.0 ip.lovely-app.com
 0.0.0.0 ip.momentummedia.com.au
 0.0.0.0 ip.pichunter.com
 0.0.0.0 ip.prvtx.net
@@ -53834,7 +53853,9 @@
 0.0.0.0 joyrodethyme.digital
 0.0.0.0 joyvowdig.com
 0.0.0.0 jp-a0.tt.omtrdc.net
+0.0.0.0 jp-api-fc.dutils.com
 0.0.0.0 jp-axia.m0mentum.net
+0.0.0.0 jp-devs-data.dutils.com
 0.0.0.0 jp-go.experian.com
 0.0.0.0 jp.as.pptv.com
 0.0.0.0 jp.connect.tt.omtrdc.net
@@ -57340,7 +57361,6 @@
 0.0.0.0 link.meumulti.com.br
 0.0.0.0 link.mindsetapp.com
 0.0.0.0 link.mix.com
-0.0.0.0 link.mix.com^link.sandboxx.us
 0.0.0.0 link.mktg.almosafer.com
 0.0.0.0 link.mktg.tajawal.com
 0.0.0.0 link.mobstar.com
@@ -60086,6 +60106,7 @@
 0.0.0.0 m.morsmiddag.tt.omtrdc.net
 0.0.0.0 m.motif.com
 0.0.0.0 m.mouaa.com
+0.0.0.0 m.mpl.dutils.com
 0.0.0.0 m.mqgpo.com
 0.0.0.0 m.mrtuo.com
 0.0.0.0 m.msuik.cn
@@ -63800,7 +63821,6 @@
 0.0.0.0 metrics.barclaycardus.com
 0.0.0.0 metrics.bcbsnc.com
 0.0.0.0 metrics.becomeanex.org
-0.0.0.0 metrics.bestbuy.com
 0.0.0.0 metrics.bestoforlando.com
 0.0.0.0 metrics.bestrecipes.com.au
 0.0.0.0 metrics.beveragedaily.com
@@ -64132,7 +64152,6 @@
 0.0.0.0 metrics.machinedesign.com
 0.0.0.0 metrics.macquarie.com.au
 0.0.0.0 metrics.macys.com
-0.0.0.0 metrics.macys.net
 0.0.0.0 metrics.madeformums.com
 0.0.0.0 metrics.madewell.com
 0.0.0.0 metrics.makemytrip.com
@@ -71656,6 +71675,7 @@
 0.0.0.0 p06.sc.origins.en25.com
 0.0.0.0 p0y.cn
 0.0.0.0 p1-feedback.byteimg.com
+0.0.0.0 p1-jx.adukwai.com
 0.0.0.0 p1-lm.adkwai.com
 0.0.0.0 p1-lm.adukwai.com
 0.0.0.0 p1.adkwai.com
@@ -71668,6 +71688,7 @@
 0.0.0.0 p123p.com
 0.0.0.0 p13vtlg7n362.clariti.app
 0.0.0.0 p188.cn
+0.0.0.0 p2-jx.adukwai.com
 0.0.0.0 p2-lm.adukwai.com
 0.0.0.0 p2.danskebank.co.uk
 0.0.0.0 p2.danskebank.dk
@@ -75278,6 +75299,7 @@
 0.0.0.0 povoarge.com
 0.0.0.0 powdermealfilth.com
 0.0.0.0 powderprofit.com
+0.0.0.0 powedw.com
 0.0.0.0 power.adhacker.online
 0.0.0.0 power.viggo.com
 0.0.0.0 powerad.ai
@@ -90821,6 +90843,7 @@
 0.0.0.0 sq.requestads.com
 0.0.0.0 sq1.chinacsky.com
 0.0.0.0 sq2.chinacsky.com
+0.0.0.0 sq59.cn
 0.0.0.0 sqa122.tt.omtrdc.net
 0.0.0.0 sqa51005.tt.omtrdc.net
 0.0.0.0 sqate.io
@@ -99337,6 +99360,7 @@
 0.0.0.0 tq.nxthost-2.info
 0.0.0.0 tqc-int-b2d-temp.tt.omtrdc.net
 0.0.0.0 tqd.ntpddq.com
+0.0.0.0 tqdctl.xyz
 0.0.0.0 tqdpqq.com
 0.0.0.0 tqhosting.actonservice.com
 0.0.0.0 tqkfrdcwht.xyz
@@ -105259,11 +105283,14 @@
 0.0.0.0 urysogsit.uno
 0.0.0.0 us-59-8.tt.omtrdc.net
 0.0.0.0 us-able.ovh.tt.omtrdc.net
+0.0.0.0 us-api-d.dutils.com
+0.0.0.0 us-api-fc.dutils.com
 0.0.0.0 us-atl-gw-dev2.tt.omtrdc.net
 0.0.0.0 us-central-gw3.tt.omtrdc.net
 0.0.0.0 us-central1-markuphero.cloudfunctions.net
 0.0.0.0 us-content.dyn.tt.omtrdc.net
 0.0.0.0 us-dev-app-kr.donut-wallet.tt.omtrdc.net
+0.0.0.0 us-devs-data.dutils.com
 0.0.0.0 us-east-1-traffic-data.traffic-gateway.api.tt.omtrdc.net
 0.0.0.0 us-east-1.federalist.app.tt.omtrdc.net
 0.0.0.0 us-east-1.origin.maps.sit.ls.tt.omtrdc.net
@@ -110996,6 +111023,7 @@
 0.0.0.0 www.dtc-v6t.com
 0.0.0.0 www.dthvdr9.com
 0.0.0.0 www.dtjh.tt.omtrdc.net
+0.0.0.0 www.dutils.com
 0.0.0.0 www.e-pmgt.tt.omtrdc.net
 0.0.0.0 www.eastasiandating.com
 0.0.0.0 www.ebayqe38.stage.tt.omtrdc.net
