@@ -1,4 +1,4 @@
-# 2023-07-14 18:08:27
+# 2023-07-14 19:06:34
 # 自用，请勿商用
 
 
@@ -9213,7 +9213,6 @@
 0.0.0.0 ads-api.playfun.vn
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-api.twitter.com
-0.0.0.0 ads-backend.nhadatmoi.net
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 ads-chunks.prod.ihrhls.com
@@ -9269,7 +9268,6 @@
 0.0.0.0 ads.akaup.com
 0.0.0.0 ads.alaatv.com
 0.0.0.0 ads.aland.com
-0.0.0.0 ads.alophim.org
 0.0.0.0 ads.anese.co
 0.0.0.0 ads.annonsbladet.com
 0.0.0.0 ads.appsgeyser.com
@@ -9437,7 +9435,6 @@
 0.0.0.0 ads.veterinaren.nu
 0.0.0.0 ads.vietbao.vn
 0.0.0.0 ads.vishare.vn
-0.0.0.0 ads.vkool.info
 0.0.0.0 ads.vlr.vn
 0.0.0.0 ads.vovlive.vn
 0.0.0.0 ads.vtc.vn
@@ -10120,7 +10117,6 @@
 0.0.0.0 advertise
 0.0.0.0 advertise.com
 0.0.0.0 advertise.ru
-0.0.0.0 advertisement-nhatanh.com
 0.0.0.0 advertisement.glb.qnniu.com
 0.0.0.0 advertisementafterthought.com
 0.0.0.0 advertiseonbing.azureedge.net
@@ -10292,8 +10288,6 @@
 0.0.0.0 adx.com.ru
 0.0.0.0 adx.doumpaq.com
 0.0.0.0 adx.edutimes.com.vn
-0.0.0.0 adx.golfnews.vn
-0.0.0.0 adx.hoanggia.net
 0.0.0.0 adx.hoanggia.net.vn
 0.0.0.0 adx.hongtinnhanh.com
 0.0.0.0 adx.hupu.com
@@ -25151,7 +25145,6 @@
 0.0.0.0 cdn.resonate.com
 0.0.0.0 cdn.rgrd.xyz
 0.0.0.0 cdn.rlets.com
-0.0.0.0 cdn.rongzhouxing.com
 0.0.0.0 cdn.routy.app
 0.0.0.0 cdn.sgmntfy.com
 0.0.0.0 cdn.shareaholic.net
@@ -25955,6 +25948,7 @@
 0.0.0.0 chidir.com
 0.0.0.0 chidsimp.com
 0.0.0.0 chiefexecutive.actonservice.com
+0.0.0.0 chiese.site
 0.0.0.0 chignonrelics.com
 0.0.0.0 chihiro.nostalgie.fr
 0.0.0.0 chihuoguo.me
@@ -42678,7 +42672,6 @@
 0.0.0.0 fivecdm.com
 0.0.0.0 fivelegant.com
 0.0.0.0 fivetrafficroads.com
-0.0.0.0 fiveyardlab.com
 0.0.0.0 fiwhibse.com
 0.0.0.0 fiwinet.firmenwissen.com
 0.0.0.0 fiwinet.firmenwissen.de
@@ -44006,6 +43999,7 @@
 0.0.0.0 fwsoqmslto.www.att.hb.tt.omtrdc.net
 0.0.0.0 fwtrck.com
 0.0.0.0 fwwjbvz.cn
+0.0.0.0 fwzvlp.xyz
 0.0.0.0 fx-trend.com
 0.0.0.0 fxbcpr.xyz
 0.0.0.0 fxbqag.znak.com
@@ -45245,7 +45239,6 @@
 0.0.0.0 ghghgf.xuexiwa.com
 0.0.0.0 ghgmfegodp.241crackle.hb.tt.omtrdc.net
 0.0.0.0 ghhtt.top
-0.0.0.0 ghimc.vn
 0.0.0.0 ghjexy.adrop.cz
 0.0.0.0 ghjnpy.com
 0.0.0.0 ghlyrecome.xyz
@@ -54411,6 +54404,7 @@
 0.0.0.0 jhwj88.com
 0.0.0.0 jhxcld.xyz
 0.0.0.0 jhxqfgbj.com
+0.0.0.0 jhzfwl.cn
 0.0.0.0 jhzotqafwgb.com
 0.0.0.0 jhzwle.ryuryumall.jp
 0.0.0.0 ji-beta.dev.network-auth.tt.omtrdc.net
@@ -57274,6 +57268,7 @@
 0.0.0.0 lamforsung.com
 0.0.0.0 laminarrailage.com
 0.0.0.0 lamise.ru
+0.0.0.0 lamkghx.icu
 0.0.0.0 lamma.24ex.net
 0.0.0.0 lammaou.xyz
 0.0.0.0 lammasbananas.com
@@ -59522,7 +59517,6 @@
 0.0.0.0 log.kajicam.com
 0.0.0.0 log.kaka.me
 0.0.0.0 log.kienthuc.net.vn
-0.0.0.0 log.kinhdoanhhoinhap.vn
 0.0.0.0 log.kinhtedouong.vn
 0.0.0.0 log.klook.com
 0.0.0.0 log.krs-ix.ru
@@ -59610,7 +59604,6 @@
 0.0.0.0 log.tinnhac.com
 0.0.0.0 log.tinnhanhchungkhoan.vn
 0.0.0.0 log.tinxe.vn
-0.0.0.0 log.toss.vn
 0.0.0.0 log.trackingio.com
 0.0.0.0 log.trithuctructuyen.com.vn
 0.0.0.0 log.trithuctructuyen.vn
@@ -67902,6 +67895,7 @@
 0.0.0.0 mqmh.uihdlx.xyz
 0.0.0.0 mqmqpp1.mqmqpp.tt.omtrdc.net
 0.0.0.0 mqnggnsx.fun
+0.0.0.0 mqnrrawj.com
 0.0.0.0 mqpazioiyt.com
 0.0.0.0 mqqad.cs0309.html5.qq.com
 0.0.0.0 mqqad.html5.qq.com
@@ -72318,6 +72312,7 @@
 0.0.0.0 oontent.powzers.lol
 0.0.0.0 ooo.0o0.ooo
 0.0.0.0 ooopym.younited-credit.com
+0.0.0.0 oopej.xyz
 0.0.0.0 oopodmomenta.website
 0.0.0.0 oopsauwa.xyz
 0.0.0.0 oopt.fr
@@ -74957,6 +74952,7 @@
 0.0.0.0 pctlwm.com
 0.0.0.0 pctsrv.com
 0.0.0.0 pcvideoaliyun.titan.mgtv.com
+0.0.0.0 pcvzpj.xyz
 0.0.0.0 pcweb-v1.log.mgtv.com
 0.0.0.0 pcweb.v1.mgtv.com
 0.0.0.0 pcxtvr.xyz
@@ -75926,7 +75922,6 @@
 0.0.0.0 piouscheers.com
 0.0.0.0 pip-pip-pop.com
 0.0.0.0 pipe-collect.ebu.io
-0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 pipeaota.com
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pipelinemetrics-b.a-prf.a.tt.omtrdc.net
@@ -76052,7 +76047,6 @@
 0.0.0.0 pixel.buzzfeed.com
 0.0.0.0 pixel.carambo.la
 0.0.0.0 pixel.cdnwidget.com
-0.0.0.0 pixel.chotot.com
 0.0.0.0 pixel.coccoc.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.convertize.io
@@ -79140,7 +79134,6 @@
 0.0.0.0 pwssuj.com
 0.0.0.0 pwwghcyzsn.info
 0.0.0.0 pwxueuocf.com
-0.0.0.0 px-cdn.saostar.vn
 0.0.0.0 px-intl.ucweb.com
 0.0.0.0 px.derstandard.at
 0.0.0.0 px.dmp.zaloapp.com
@@ -86945,6 +86938,7 @@
 0.0.0.0 sffsgi.miele.com.tr
 0.0.0.0 sffullcat-san.sfuat-sdons.tt.omtrdc.net
 0.0.0.0 sffyrc.ruparupa.com
+0.0.0.0 sfg11rr.com
 0.0.0.0 sfgysl.ezday.co.kr
 0.0.0.0 sfgysl.ppomppu.co.kr
 0.0.0.0 sfhgqy.i-sozoku.com
@@ -87328,7 +87322,6 @@
 0.0.0.0 sheltercalm-2000.tt.omtrdc.net
 0.0.0.0 sheltercellar.com
 0.0.0.0 shelvesdeserve.com
-0.0.0.0 shemale.team
 0.0.0.0 shenbabao.com
 0.0.0.0 shence.hupu.com
 0.0.0.0 shence.wosai-inc.com
@@ -103667,7 +103660,6 @@
 0.0.0.0 tracker.neodatagroup.com
 0.0.0.0 tracker.neon-images.com
 0.0.0.0 tracker.netklix.com
-0.0.0.0 tracker.nhandaovadoisong.vn
 0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.novage.com.ua
 0.0.0.0 tracker.openwebtorrent.com
@@ -110829,6 +110821,7 @@
 0.0.0.0 wcehko.juankh.com
 0.0.0.0 wcfbc.net
 0.0.0.0 wcgthe.com
+0.0.0.0 wchctzzkzkhx.com
 0.0.0.0 wchjfv.apartmenttherapy.com
 0.0.0.0 wci0jf62.cfd
 0.0.0.0 wcjjwftzqy.bellmedia.hb.tt.omtrdc.net
@@ -116850,6 +116843,7 @@
 0.0.0.0 zcp.zwame.pt
 0.0.0.0 zcrui.com
 0.0.0.0 zcsnjbjlwn.com
+0.0.0.0 zcvyzsyd.icu
 0.0.0.0 zcwank.nha.nl
 0.0.0.0 zcy821.com
 0.0.0.0 zczcvx.com
