@@ -1,7 +1,8 @@
-# 2025-01-10 06:10:02
+# 2025-01-10 07:10:45
 # 自用，请勿商用
 
 
+0.0.0.0 -1325890192.cos.
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0.myikas.com
 0.0.0.0 0.net.easyjet.com
@@ -12583,6 +12584,7 @@
 0.0.0.0 analytics-gw.games.wanmei.com
 0.0.0.0 analytics-hub.3plearning.com
 0.0.0.0 analytics-ingestion-production.tubitv.com
+0.0.0.0 analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 0.0.0.0 analytics-ingestion.pbpms.de
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-ingress-global.bitmovin.com
@@ -24744,6 +24746,8 @@
 0.0.0.0 clientlog.music.163.com
 0.0.0.0 clientlog.portal.office.com
 0.0.0.0 clientlog3.music.163.com
+0.0.0.0 clientlogdep.music.163.com
+0.0.0.0 clientlogsf.music.163.com
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 clientoutcry.com
@@ -25712,6 +25716,7 @@
 0.0.0.0 collector.statowl.com
 0.0.0.0 collector.superwall.me
 0.0.0.0 collector.szlcsc.com
+0.0.0.0 collector.t-idr.com
 0.0.0.0 collector.taoxh.life
 0.0.0.0 collector.tescocompare.com
 0.0.0.0 collector.trendmd.com
@@ -32008,6 +32013,7 @@
 0.0.0.0 data.kameleoon.io
 0.0.0.0 data.keybank.dev.cjmadobe.com
 0.0.0.0 data.knitpicks.com
+0.0.0.0 data.kuiniuca.com
 0.0.0.0 data.kulturkaufhaus.de
 0.0.0.0 data.lagacetadesalamanca.es
 0.0.0.0 data.larioja.com
@@ -36212,6 +36218,7 @@
 0.0.0.0 dynamitedata.com
 0.0.0.0 dynamosbakongo.shop
 0.0.0.0 dynatrace-managed.com
+0.0.0.0 dynatrace.att.com
 0.0.0.0 dynpaa.com
 0.0.0.0 dynspt.com
 0.0.0.0 dynsrv.wps.cn
@@ -39396,6 +39403,7 @@
 0.0.0.0 ercamj.motogp.com
 0.0.0.0 ercnrxa.cn
 0.0.0.0 ercoeteasacom.com
+0.0.0.0 ercoils.com
 0.0.0.0 erdeallyighab.com
 0.0.0.0 erdecisesgeorg.info
 0.0.0.0 erebor.douban.com
@@ -75984,6 +75992,7 @@
 0.0.0.0 nsteq.queensland.com
 0.0.0.0 nster.net
 0.0.0.0 nstoodthestatu.info
+0.0.0.0 nstool.netease.com
 0.0.0.0 nstracking.com
 0.0.0.0 nsultingcoe.net
 0.0.0.0 nswtojdi.icu
@@ -84227,6 +84236,7 @@
 0.0.0.0 publiclyphasecategory.com
 0.0.0.0 publicschoolworks.actonservice.com
 0.0.0.0 publicsofa.com
+0.0.0.0 publictelemetry.tophat.com
 0.0.0.0 publicunloadbags.com
 0.0.0.0 publift.com
 0.0.0.0 publipagos.com
@@ -90832,6 +90842,7 @@
 0.0.0.0 sayyac.com
 0.0.0.0 sayyac.net
 0.0.0.0 sayyidsspintry.com
+0.0.0.0 sb-hip-happy.ourservice.jp
 0.0.0.0 sb-money.ru
 0.0.0.0 sb-stat1.com
 0.0.0.0 sb.adsdomaintracking.com
@@ -102268,7 +102279,6 @@
 0.0.0.0 static.img.imagecdn.cn
 0.0.0.0 static.jampp.com
 0.0.0.0 static.javhd.com
-0.0.0.0 static.karte.io
 0.0.0.0 static.live.nagezan.net
 0.0.0.0 static.m.sjzhushou.com
 0.0.0.0 static.masoffer.net
@@ -115680,6 +115690,7 @@
 0.0.0.0 twistyscash.com
 0.0.0.0 twitob.com
 0.0.0.0 twittad.com
+0.0.0.0 twitter.sx
 0.0.0.0 twitterfollowers.site
 0.0.0.0 twiz.wizaly.co.uk
 0.0.0.0 twiz.wizaly.fr
@@ -117667,6 +117678,7 @@
 0.0.0.0 uyyquln.icu
 0.0.0.0 uyysua.savegnago.com.br
 0.0.0.0 uz-analysis.akamaized.net
+0.0.0.0 uz-kqtecqs.space
 0.0.0.0 uzauxaursachoky.net
 0.0.0.0 uzd1.madeindesign.com
 0.0.0.0 uzdhsjuhrw.com
@@ -119779,6 +119791,7 @@
 0.0.0.0 volcanoexhibitmeaning.com
 0.0.0.0 volcanostricken.com
 0.0.0.0 volceapplog.com
+0.0.0.0 volces.com
 0.0.0.0 volctrack.com
 0.0.0.0 voldarinis.com
 0.0.0.0 vole.contemporaryartlibrary.org
@@ -128283,6 +128296,7 @@
 0.0.0.0 ||abcd.cnhuoche.com^
 0.0.0.0 ||abdluv.xyz^
 0.0.0.0 ||abenshishabi.com^
+0.0.0.0 ||abernc.xyz^
 0.0.0.0 ||abovede6.com^
 0.0.0.0 ||abram.xin^
 0.0.0.0 ||abrnfctkn.xyz^
@@ -128617,6 +128631,7 @@
 0.0.0.0 ||bh0874.online^
 0.0.0.0 ||bhaabom.cn^
 0.0.0.0 ||bhcnmrn.icu^
+0.0.0.0 ||bhgzwqy.top^
 0.0.0.0 ||bhjuy10.com^
 0.0.0.0 ||bhpprfk.cn^
 0.0.0.0 ||bhulgot.com^
@@ -129494,6 +129509,7 @@
 0.0.0.0 ||gxhzv.cn^
 0.0.0.0 ||gxlsjt.com^
 0.0.0.0 ||gxxie.com^
+0.0.0.0 ||gxxyclub.top^
 0.0.0.0 ||gxzxiww.com^
 0.0.0.0 ||gyhgcgj.xyz^
 0.0.0.0 ||gyjinchuang.vip^
@@ -130281,6 +130297,7 @@
 0.0.0.0 ||lpxmall.com^
 0.0.0.0 ||lqe3.icu^
 0.0.0.0 ||lqjinx.xyz^
+0.0.0.0 ||lqweqk61qlih.click^
 0.0.0.0 ||lrlsrz.xyz^
 0.0.0.0 ||lrqpyhn.icu^
 0.0.0.0 ||lsancil.top^
@@ -130465,6 +130482,7 @@
 0.0.0.0 ||mvamnng.cn^
 0.0.0.0 ||mvgucp.com^
 0.0.0.0 ||mvlkvth.cn^
+0.0.0.0 ||mvwitz.xyz^
 0.0.0.0 ||mwandlx.top^
 0.0.0.0 ||mwdwepok.xyz^
 0.0.0.0 ||mwzbp.ccbangong.com^
@@ -131312,6 +131330,7 @@
 0.0.0.0 ||tarqk5.com^
 0.0.0.0 ||taxismaned.top^
 0.0.0.0 ||tbcgumkadc.xyz^
+0.0.0.0 ||tbl258ym4.cc^
 0.0.0.0 ||tc6tc.com^
 0.0.0.0 ||tcbox.baidu.com^
 0.0.0.0 ||tchkcc.cn^
@@ -132077,6 +132096,7 @@
 0.0.0.0 ||yfhtbdn.com^
 0.0.0.0 ||ygwdai.cn^
 0.0.0.0 ||ygxgk.cn^
+0.0.0.0 ||ygz1pd7.online^
 0.0.0.0 ||ygzqlnt.cn^
 0.0.0.0 ||yh.zg-zxzx.net^
 0.0.0.0 ||yh18h8s.com^
